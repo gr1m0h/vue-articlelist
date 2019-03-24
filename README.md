@@ -1,1 +1,1 @@
-# vue-postlist
+# vue-articlelist
